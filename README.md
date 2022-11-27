@@ -16,7 +16,9 @@ The model uses Region Based Convolutional Neural Network (R-CNN) to track robot 
 * The joint's "head";
 * The joint's "tail".
 
-![results](images/result_comb.png)
+|The model prediction result examples:|
+|-----------------------------------|
+|![results](images/result_comb.png)|
 ## Dataset 
 Dataset was created and preprocessed using [Roboflow](https://roboflow.com/).
 Available in a ```Keypoints.v2i.yolov5pytorch.zip``` archive.
