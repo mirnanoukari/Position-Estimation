@@ -23,7 +23,9 @@ The model uses Region Based Convolutional Neural Network (R-CNN) to track robot 
 Dataset was created and preprocessed using [Roboflow](https://roboflow.com/).
 Available in a ```Keypoints.v2i.yolov5pytorch.zip``` archive.
 
-<img src="images/arm_markers.png" alt="dataset" width="300"/>
+|Example of labeled image from dataset|
+|-------|
+|<img src="images/arm_markers.png" alt="dataset" width="500"/>|
 
 ## Model
 The model is created, saved, and tested in the ```Pose_estimation.ipynb```.
