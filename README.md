@@ -20,7 +20,7 @@ The model uses Region Based Convolutional Neural Network (R-CNN) to track robot 
 ## Dataset 
 Dataset was created and preprocessed using [Roboflow](https://roboflow.com/).
 Available in a ```Keypoints.v2i.yolov5pytorch.zip``` archive.
-This paper contains model description, information about dataset preparation and result analysis. The designed model demonstrates appropriate results by detecting manipulator joints position, which is the first step to estimate the pose of the robotic arm.
+![dataset](images/arm_markers.png)
 
 ## Model
 The model is created, saved, and tested in the ```Pose_estimation.ipynb```.
