@@ -1,12 +1,6 @@
-# Introduction to Computer Vision Project
-### Innopolis University, Fall 2022
-____________________
+
 # Pose Estimation for a Robot Manipulator
 __________________
-## Team 
-* Mirna Alnoukari
-* Anton Buguev
-* Elizaveta Kovanova
 
 ## Project description
 This project proposes a solution for position estimation of a single industrial manipulator using learning methods.
